@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\bin\Debug\net6.0\GuessNumber.exe
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\bin\Debug\net6.0\GuessNumber.deps.json
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\bin\Debug\net6.0\GuessNumber.runtimeconfig.json
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\bin\Debug\net6.0\GuessNumber.dll
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\bin\Debug\net6.0\GuessNumber.pdb
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfo.cs
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.dll
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\refint\GuessNumber.dll
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.pdb
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\GuessNumber.genruntimeconfig.cache
+C:\Users\berka\source\repos\GuessNumber\GuessNumber\obj\Debug\net6.0\ref\GuessNumber.dll

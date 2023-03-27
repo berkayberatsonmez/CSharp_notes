@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\bin\Debug\net6.0\fiveUniqueNumbers.exe
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\bin\Debug\net6.0\fiveUniqueNumbers.deps.json
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\bin\Debug\net6.0\fiveUniqueNumbers.runtimeconfig.json
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\bin\Debug\net6.0\fiveUniqueNumbers.dll
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\bin\Debug\net6.0\fiveUniqueNumbers.pdb
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.AssemblyInfo.cs
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.dll
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\refint\fiveUniqueNumbers.dll
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.pdb
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\fiveUniqueNumbers.genruntimeconfig.cache
+C:\Users\berka\source\repos\fiveUniqueNumbers\fiveUniqueNumbers\obj\Debug\net6.0\ref\fiveUniqueNumbers.dll
