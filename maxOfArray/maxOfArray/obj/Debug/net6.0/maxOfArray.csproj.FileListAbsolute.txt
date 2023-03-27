@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\bin\Debug\net6.0\maxOfArray.exe
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\bin\Debug\net6.0\maxOfArray.deps.json
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\bin\Debug\net6.0\maxOfArray.runtimeconfig.json
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\bin\Debug\net6.0\maxOfArray.dll
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\bin\Debug\net6.0\maxOfArray.pdb
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.AssemblyInfo.cs
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.dll
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\refint\maxOfArray.dll
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.pdb
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\maxOfArray.genruntimeconfig.cache
+C:\Users\berka\source\repos\maxOfArray\maxOfArray\obj\Debug\net6.0\ref\maxOfArray.dll
