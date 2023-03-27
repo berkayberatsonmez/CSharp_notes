@@ -1,0 +1,5 @@
+C:\Users\berka\source\repos\Exercise1.2\Exercise1.2\obj\Debug\net6.0\Exercise1.2.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\Exercise1.2\Exercise1.2\obj\Debug\net6.0\Exercise1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\Exercise1.2\Exercise1.2\obj\Debug\net6.0\Exercise1.2.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\Exercise1.2\Exercise1.2\obj\Debug\net6.0\Exercise1.2.AssemblyInfo.cs
+C:\Users\berka\source\repos\Exercise1.2\Exercise1.2\obj\Debug\net6.0\Exercise1.2.csproj.CoreCompileInputs.cache
