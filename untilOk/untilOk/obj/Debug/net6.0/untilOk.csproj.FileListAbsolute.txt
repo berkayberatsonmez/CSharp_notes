@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\untilOk\untilOk\bin\Debug\net6.0\untilOk.exe
+C:\Users\berka\source\repos\untilOk\untilOk\bin\Debug\net6.0\untilOk.deps.json
+C:\Users\berka\source\repos\untilOk\untilOk\bin\Debug\net6.0\untilOk.runtimeconfig.json
+C:\Users\berka\source\repos\untilOk\untilOk\bin\Debug\net6.0\untilOk.dll
+C:\Users\berka\source\repos\untilOk\untilOk\bin\Debug\net6.0\untilOk.pdb
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.AssemblyInfo.cs
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.dll
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\refint\untilOk.dll
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.pdb
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\untilOk.genruntimeconfig.cache
+C:\Users\berka\source\repos\untilOk\untilOk\obj\Debug\net6.0\ref\untilOk.dll

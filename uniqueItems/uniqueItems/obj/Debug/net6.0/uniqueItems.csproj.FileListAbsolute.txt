@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\bin\Debug\net6.0\uniqueItems.exe
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\bin\Debug\net6.0\uniqueItems.deps.json
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\bin\Debug\net6.0\uniqueItems.runtimeconfig.json
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\bin\Debug\net6.0\uniqueItems.dll
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\bin\Debug\net6.0\uniqueItems.pdb
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.AssemblyInfo.cs
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.dll
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\refint\uniqueItems.dll
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.pdb
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\uniqueItems.genruntimeconfig.cache
+C:\Users\berka\source\repos\uniqueItems\uniqueItems\obj\Debug\net6.0\ref\uniqueItems.dll
