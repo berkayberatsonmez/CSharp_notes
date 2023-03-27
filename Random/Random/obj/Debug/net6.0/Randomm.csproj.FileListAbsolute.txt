@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.AssemblyInfo.cs
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\Random\Random\bin\Debug\net6.0\Randomm.exe
+C:\Users\berka\source\repos\Random\Random\bin\Debug\net6.0\Randomm.deps.json
+C:\Users\berka\source\repos\Random\Random\bin\Debug\net6.0\Randomm.runtimeconfig.json
+C:\Users\berka\source\repos\Random\Random\bin\Debug\net6.0\Randomm.dll
+C:\Users\berka\source\repos\Random\Random\bin\Debug\net6.0\Randomm.pdb
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.dll
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\refint\Randomm.dll
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.pdb
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\Randomm.genruntimeconfig.cache
+C:\Users\berka\source\repos\Random\Random\obj\Debug\net6.0\ref\Randomm.dll

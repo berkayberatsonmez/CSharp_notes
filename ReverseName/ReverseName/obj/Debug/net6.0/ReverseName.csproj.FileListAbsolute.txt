@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\ReverseName\ReverseName\bin\Debug\net6.0\ReverseName.exe
+C:\Users\berka\source\repos\ReverseName\ReverseName\bin\Debug\net6.0\ReverseName.deps.json
+C:\Users\berka\source\repos\ReverseName\ReverseName\bin\Debug\net6.0\ReverseName.runtimeconfig.json
+C:\Users\berka\source\repos\ReverseName\ReverseName\bin\Debug\net6.0\ReverseName.dll
+C:\Users\berka\source\repos\ReverseName\ReverseName\bin\Debug\net6.0\ReverseName.pdb
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.AssemblyInfo.cs
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.dll
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\refint\ReverseName.dll
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.pdb
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ReverseName.genruntimeconfig.cache
+C:\Users\berka\source\repos\ReverseName\ReverseName\obj\Debug\net6.0\ref\ReverseName.dll
