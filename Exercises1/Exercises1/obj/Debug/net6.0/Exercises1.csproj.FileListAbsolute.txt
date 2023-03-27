@@ -1,0 +1,15 @@
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.AssemblyInfo.cs
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\Exercises1\Exercises1\bin\Debug\net6.0\Exercises1.exe
+C:\Users\berka\source\repos\Exercises1\Exercises1\bin\Debug\net6.0\Exercises1.deps.json
+C:\Users\berka\source\repos\Exercises1\Exercises1\bin\Debug\net6.0\Exercises1.runtimeconfig.json
+C:\Users\berka\source\repos\Exercises1\Exercises1\bin\Debug\net6.0\Exercises1.dll
+C:\Users\berka\source\repos\Exercises1\Exercises1\bin\Debug\net6.0\Exercises1.pdb
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.dll
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\refint\Exercises1.dll
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.pdb
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\Exercises1.genruntimeconfig.cache
+C:\Users\berka\source\repos\Exercises1\Exercises1\obj\Debug\net6.0\ref\Exercises1.dll
